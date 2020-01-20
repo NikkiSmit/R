@@ -1,2 +1,2 @@
 # R
-Various R Projects
+Various R projects and scripts including theory notes.
